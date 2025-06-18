@@ -1,227 +1,814 @@
 [
   {
-    "name": "Noida Sector 62",
-    "lat": 28.6304,
-    "lng": 77.3652
+    "name": "Adarsh Nagar",
+    "lat": 28.71642,
+    "lng": 77.17046
   },
   {
-    "name": "Noida Electronic City",
-    "lat": 28.6286,
-    "lng": 77.3745
-  },
-  {
-    "name": "Noida Sector 59",
-    "lat": 28.6277,
-    "lng": 77.3639
-  },
-  {
-    "name": "Noida Sector 61",
-    "lat": 28.6280,
-    "lng": 77.3697
-  },
-  {
-    "name": "Noida Sector 52",
-    "lat": 28.6024,
-    "lng": 77.3680
-  },
-  {
-    "name": "Botanical Garden",
-    "lat": 28.5708,
-    "lng": 77.3261
+    "name": "AIIMS",
+    "lat": 28.56892,
+    "lng": 77.20771
   },
   {
     "name": "Akshardham",
-    "lat": 28.6127,
-    "lng": 77.2773
+    "lat": 28.61806,
+    "lng": 77.27869
   },
   {
-    "name": "Rajiv Chowk",
-    "lat": 28.6328,
-    "lng": 77.2197
+    "name": "Anand Vihar",
+    "lat": 28.64695,
+    "lng": 77.31603
   },
   {
-    "name": "Hauz Khas",
-    "lat": 28.5494,
-    "lng": 77.2061
+    "name": "Arjan Garh",
+    "lat": 28.48076,
+    "lng": 77.12583
   },
   {
-    "name": "Dwarka Sector 21",
-    "lat": 28.5519,
-    "lng": 77.0486
+    "name": "Ashok Park Main",
+    "lat": 28.67153,
+    "lng": 77.15527
   },
   {
-    "name": "New Delhi",
-    "lat": 28.6429,
-    "lng": 77.2195
+    "name": "Azadpur",
+    "lat": 28.70696,
+    "lng": 77.18053
+  },
+  {
+    "name": "Badarpur",
+    "lat": 28.49334,
+    "lng": 77.30307
+  },
+  {
+    "name": "Barakhambha Road",
+    "lat": 28.63003,
+    "lng": 77.22436
+  },
+  {
+    "name": "Botanical Garden",
+    "lat": 28.56409,
+    "lng": 77.3342
+  },
+  {
+    "name": "Central Secretariat",
+    "lat": 28.61474,
+    "lng": 77.21191
   },
   {
     "name": "Chandni Chowk",
-    "lat": 28.6562,
-    "lng": 77.2304
+    "lat": 28.65785,
+    "lng": 77.23014
+  },
+  {
+    "name": "Chhatarpur",
+    "lat": 28.50671,
+    "lng": 77.17484
+  },
+  {
+    "name": "Chawri Bazar",
+    "lat": 28.64931,
+    "lng": 77.22637
+  },
+  {
+    "name": "Civil Lines",
+    "lat": 28.67726,
+    "lng": 77.2241
+  },
+  {
+    "name": "Delhi Aerocity",
+    "lat": 28.54881,
+    "lng": 77.12092
+  },
+  {
+    "name": "Dhaula Kuan",
+    "lat": 28.59178,
+    "lng": 77.16155
+  },
+  {
+    "name": "Dilshad Garden",
+    "lat": 28.67592,
+    "lng": 77.32142
+  },
+  {
+    "name": "Dwarka",
+    "lat": 28.61564,
+    "lng": 77.02197
+  },
+  {
+    "name": "Dwarka Morh",
+    "lat": 28.61932,
+    "lng": 77.03326
+  },
+  {
+    "name": "Dwarka Sector 10",
+    "lat": 28.58068,
+    "lng": 77.05682
+  },
+  {
+    "name": "Dwarka Sector 11",
+    "lat": 28.58657,
+    "lng": 77.04929
+  },
+  {
+    "name": "Dwarka Sector 12",
+    "lat": 28.59232,
+    "lng": 77.04051
+  },
+  {
+    "name": "Dwarka Sector 13",
+    "lat": 28.59722,
+    "lng": 77.03326
+  },
+  {
+    "name": "Dwarka Sector 14",
+    "lat": 28.60223,
+    "lng": 77.02588
+  },
+  {
+    "name": "Dwarka Sector 21",
+    "lat": 28.55226,
+    "lng": 77.05828
+  },
+  {
+    "name": "Dwarka Sector 8",
+    "lat": 28.56583,
+    "lng": 77.06706
+  },
+  {
+    "name": "Dwarka Sector 9",
+    "lat": 28.57487,
+    "lng": 77.06454
+  },
+  {
+    "name": "Ghitorni",
+    "lat": 28.49383,
+    "lng": 77.14922
+  },
+  {
+    "name": "Govind Puri",
+    "lat": 28.54451,
+    "lng": 77.26401
+  },
+  {
+    "name": "Green Park",
+    "lat": 28.55979,
+    "lng": 77.20682
+  },
+  {
+    "name": "GTB Nagar",
+    "lat": 28.69785,
+    "lng": 77.20722
+  },
+  {
+    "name": "Guru Dronacharya",
+    "lat": 28.48203,
+    "lng": 77.10232
+  },
+  {
+    "name": "Hauz Khas",
+    "lat": 28.54335,
+    "lng": 77.20667
+  },
+  {
+    "name": "HUDA City Centre",
+    "lat": 28.45927,
+    "lng": 77.07268
+  },
+  {
+    "name": "IFFCO Chowk",
+    "lat": 28.47209,
+    "lng": 77.07175
+  },
+  {
+    "name": "INA",
+    "lat": 28.57526,
+    "lng": 77.20935
+  },
+  {
+    "name": "Inderlok",
+    "lat": 28.67319,
+    "lng": 77.16994
+  },
+  {
+    "name": "Indira Gandhi International Airport",
+    "lat": 28.55693,
+    "lng": 77.08669
+  },
+  {
+    "name": "Indraprastha",
+    "lat": 28.62051,
+    "lng": 77.24993
+  },
+  {
+    "name": "Jahangirpuri",
+    "lat": 28.72592,
+    "lng": 77.16267
+  },
+  {
+    "name": "Janakpuri East",
+    "lat": 28.63305,
+    "lng": 77.08669
+  },
+  {
+    "name": "Janakpuri West",
+    "lat": 28.62943,
+    "lng": 77.07767
+  },
+  {
+    "name": "Jangpura",
+    "lat": 28.5843,
+    "lng": 77.23766
+  },
+  {
+    "name": "Jasola Apollo",
+    "lat": 28.53824,
+    "lng": 77.28319
+  },
+  {
+    "name": "Jawaharlal Nehru Stadium",
+    "lat": 28.5904,
+    "lng": 77.23326
+  },
+  {
+    "name": "Jhandewalan",
+    "lat": 28.64427,
+    "lng": 77.19988
+  },
+  {
+    "name": "Jhilmil",
+    "lat": 28.67579,
+    "lng": 77.31239
+  },
+  {
+    "name": "Jor Bagh",
+    "lat": 28.58708,
+    "lng": 77.21209
+  },
+  {
+    "name": "Kailash Colony",
+    "lat": 28.55527,
+    "lng": 77.24205
+  },
+  {
+    "name": "Kalkaji Mandir",
+    "lat": 28.55007,
+    "lng": 77.25835
+  },
+  {
+    "name": "Kanhiya Nagar",
+    "lat": 28.68254,
+    "lng": 77.16459
+  },
+  {
+    "name": "Karkarduma",
+    "lat": 28.64849,
+    "lng": 77.30558
+  },
+  {
+    "name": "Karol Bagh",
+    "lat": 28.644,
+    "lng": 77.18855
   },
   {
     "name": "Kashmere Gate",
     "lat": 28.6675,
-    "lng": 77.2273
+    "lng": 77.22817
   },
   {
-    "name": "Central Secretariat",
-    "lat": 28.6143,
-    "lng": 77.2089
+    "name": "Kaushambi",
+    "lat": 28.64544,
+    "lng": 77.32432
   },
   {
-    "name": "Lajpat Nagar",
-    "lat": 28.5676,
-    "lng": 77.2432
+    "name": "Keshav Puram",
+    "lat": 28.68894,
+    "lng": 77.1616
   },
   {
-    "name": "Saket",
-    "lat": 28.5246,
-    "lng": 77.2061
-  },
-  {
-    "name": "AIIMS",
-    "lat": 28.5672,
-    "lng": 77.2100
-  },
-  {
-    "name": "Inderlok",
-    "lat": 28.6670,
-    "lng": 77.1639
-  },
-  {
-    "name": "Netaji Subhash Place",
-    "lat": 28.6903,
-    "lng": 77.1480
-  },
-  {
-    "name": "Pitampura",
-    "lat": 28.6980,
-    "lng": 77.1326
-  },
-  {
-    "name": "Rohini West",
-    "lat": 28.7235,
-    "lng": 77.1039
-  },
-  {
-    "name": "Rithala",
-    "lat": 28.7297,
-    "lng": 77.0945
-  },
-  {
-    "name": "Shivaji Stadium",
-    "lat": 28.6313,
-    "lng": 77.2139
-  },
-  {
-    "name": "Delhi Aerocity",
-    "lat": 28.5511,
-    "lng": 77.1192
-  },
-  {
-    "name": "IGI Airport",
-    "lat": 28.5562,
-    "lng": 77.1000
-  },
-  {
-    "name": "Dwarka Sector 8",
-    "lat": 28.5535,
-    "lng": 77.0675
-  },
-  {
-    "name": "Dwarka Sector 10",
-    "lat": 28.5731,
-    "lng": 77.0360
-  },
-  {
-    "name": "Janakpuri West",
-    "lat": 28.6212,
-    "lng": 77.0902
+    "name": "Khan Market",
+    "lat": 28.60276,
+    "lng": 77.22829
   },
   {
     "name": "Kirti Nagar",
-    "lat": 28.6512,
-    "lng": 77.1471
+    "lat": 28.65575,
+    "lng": 77.15057
   },
   {
-    "name": "Rajouri Garden",
-    "lat": 28.6427,
-    "lng": 77.1239
+    "name": "Kohat Enclave",
+    "lat": 28.6981,
+    "lng": 77.14024
   },
   {
-    "name": "Moti Nagar",
-    "lat": 28.6514,
-    "lng": 77.1362
+    "name": "Lajpat Nagar",
+    "lat": 28.57079,
+    "lng": 77.23653
   },
   {
-    "name": "Karol Bagh",
-    "lat": 28.6515,
-    "lng": 77.1919
+    "name": "Laxmi Nagar",
+    "lat": 28.63064,
+    "lng": 77.27749
   },
   {
-    "name": "Jhandewalan",
-    "lat": 28.6460,
-    "lng": 77.1950
+    "name": "Madipur",
+    "lat": 28.67734,
+    "lng": 77.11965
   },
   {
-    "name": "Patel Chowk",
-    "lat": 28.6267,
-    "lng": 77.2158
+    "name": "Malviya Nagar",
+    "lat": 28.52798,
+    "lng": 77.20565
   },
   {
     "name": "Mandi House",
-    "lat": 28.6271,
-    "lng": 77.2351
+    "lat": 28.62588,
+    "lng": 77.2341
   },
   {
-    "name": "Pragati Maidan",
-    "lat": 28.6184,
-    "lng": 77.2430
+    "name": "Mansarovar Park",
+    "lat": 28.67544,
+    "lng": 77.30095
   },
   {
-    "name": "Indraprastha",
-    "lat": 28.6139,
-    "lng": 77.2445
+    "name": "Mayur Vihar -I",
+    "lat": 28.60442,
+    "lng": 77.28925
   },
   {
-    "name": "Yamuna Bank",
-    "lat": 28.6149,
-    "lng": 77.2682
+    "name": "Mayur Vihar Extension",
+    "lat": 28.59428,
+    "lng": 77.29455
   },
   {
-    "name": "Mayur Vihar",
-    "lat": 28.5966,
-    "lng": 77.2875
+    "name": "MG Road",
+    "lat": 28.47957,
+    "lng": 77.08006
   },
   {
-    "name": "Mayur Vihar Ext.",
-    "lat": 28.5894,
-    "lng": 77.3020
+    "name": "Model Town",
+    "lat": 28.70278,
+    "lng": 77.19363
+  },
+  {
+    "name": "Mohan Estate",
+    "lat": 28.51938,
+    "lng": 77.29388
+  },
+  {
+    "name": "Moolchand",
+    "lat": 28.56417,
+    "lng": 77.23423
+  },
+  {
+    "name": "Moti Nagar",
+    "lat": 28.65784,
+    "lng": 77.14248
+  },
+  {
+    "name": "Mundka",
+    "lat": 28.68321,
+    "lng": 77.03133
+  },
+  {
+    "name": "Nangloi",
+    "lat": 28.68231,
+    "lng": 77.06471
+  },
+  {
+    "name": "Nangloi Railway station",
+    "lat": 28.68208,
+    "lng": 77.05596
+  },
+  {
+    "name": "Nawada",
+    "lat": 28.62025,
+    "lng": 77.04514
+  },
+  {
+    "name": "Nehru Place",
+    "lat": 28.55148,
+    "lng": 77.25154
+  },
+  {
+    "name": "Netaji Subhash Place",
+    "lat": 28.69591,
+    "lng": 77.15226
   },
   {
     "name": "New Ashok Nagar",
-    "lat": 28.5868,
-    "lng": 77.3155
+    "lat": 28.58916,
+    "lng": 77.30204
   },
   {
-    "name": "Noida Sector 15",
-    "lat": 28.5801,
-    "lng": 77.3206
+    "name": "New Delhi",
+    "lat": 28.64307,
+    "lng": 77.22144
   },
   {
-    "name": "Noida Sector 16",
-    "lat": 28.5805,
-    "lng": 77.3265
-  },
-  {
-    "name": "Golf Course",
-    "lat": 28.5671,
-    "lng": 77.3333
+    "name": "Nirman Vihar",
+    "lat": 28.63663,
+    "lng": 77.28683
   },
   {
     "name": "Noida City Centre",
-    "lat": 28.5709,
-    "lng": 77.3639
-  }
+    "lat": 28.57466,
+    "lng": 77.35608
+  },
+  {
+    "name": "Noida Golf Course",
+    "lat": 28.56714,
+    "lng": 77.34598
+  },
+  {
+    "name": "Noida Sector 15",
+    "lat": 28.58512,
+    "lng": 77.31139
+  },
+  {
+    "name": "Noida Sector 16",
+    "lat": 28.57819,
+    "lng": 77.31757
+  },
+  {
+    "name": "Noida Sector 18",
+    "lat": 28.57081,
+    "lng": 77.32612
+  },
+  {
+    "name": "Okhla",
+    "lat": 28.54292,
+    "lng": 77.27504
+  },
+  {
+    "name": "Paschim Vihar East",
+    "lat": 28.6773,
+    "lng": 77.11228
+  },
+  {
+    "name": "Paschim Vihar West",
+    "lat": 28.67855,
+    "lng": 77.10227
+  },
+  {
+    "name": "Patel Chowk",
+    "lat": 28.62295,
+    "lng": 77.21389
+  },
+  {
+    "name": "Patel Nagar",
+    "lat": 28.64498,
+    "lng": 77.16929
+  },
+  {
+    "name": "Peera Garhi",
+    "lat": 28.67959,
+    "lng": 77.09261
+  },
+  {
+    "name": "Pitam Pura",
+    "lat": 28.70317,
+    "lng": 77.13223
+  },
+  {
+    "name": "Pragati Maidan",
+    "lat": 28.62342,
+    "lng": 77.2425
+  },
+  {
+    "name": "Pratap Nagar",
+    "lat": 28.66662,
+    "lng": 77.19882
+  },
+  {
+    "name": "Preet Vihar",
+    "lat": 28.64171,
+    "lng": 77.29543
+  },
+  {
+    "name": "Pul Bangash",
+    "lat": 28.66636,
+    "lng": 77.20727
+  },
+  {
+    "name": "Punjabi Bagh East",
+    "lat": 28.67289,
+    "lng": 77.14614
+  },
+  {
+    "name": "Qutab Minar",
+    "lat": 28.51302,
+    "lng": 77.18648
+  },
+  {
+    "name": "Race Course",
+    "lat": 28.59726,
+    "lng": 77.21088
+  },
+  {
+    "name": "Rajdhani Park",
+    "lat": 28.68221,
+    "lng": 77.04381
+  },
+  {
+    "name": "Rajendra Place",
+    "lat": 28.6425,
+    "lng": 77.17815
+  },
+  {
+    "name": "Rajiv Chowk",
+    "lat": 28.63282,
+    "lng": 77.21826
+  },
+  {
+    "name": "Rajouri Garden",
+    "lat": 28.64902,
+    "lng": 77.1227
+  },
+  {
+    "name": "Ramakrishna Ashram Marg",
+    "lat": 28.63923,
+    "lng": 77.2084
+  },
+  {
+    "name": "Ramesh Nagar",
+    "lat": 28.65274,
+    "lng": 77.13164
+  },
+  {
+    "name": "Rithala",
+    "lat": 28.72072,
+    "lng": 77.10713
+  },
+  [
+    {
+      "name": "Noida Golf Course",
+      "lat": 28.56714,
+      "lng": 77.34598
+    },
+    {
+      "name": "Noida Sector 15",
+      "lat": 28.58512,
+      "lng": 77.31139
+    },
+    {
+      "name": "Noida Sector 16",
+      "lat": 28.57819,
+      "lng": 77.31757
+    },
+    {
+      "name": "Noida Sector 18",
+      "lat": 28.57081,
+      "lng": 77.32612
+    },
+    {
+      "name": "Okhla",
+      "lat": 28.54292,
+      "lng": 77.27504
+    },
+    {
+      "name": "Paschim Vihar East",
+      "lat": 28.67730,
+      "lng": 77.11228
+    },
+    {
+      "name": "Paschim Vihar West",
+      "lat": 28.67855,
+      "lng": 77.10227
+    },
+    {
+      "name": "Patel Chowk",
+      "lat": 28.62295,
+      "lng": 77.21389
+    },
+    {
+      "name": "Patel Nagar",
+      "lat": 28.64498,
+      "lng": 77.16929
+    },
+    {
+      "name": "Peera Garhi",
+      "lat": 28.67959,
+      "lng": 77.09261
+    },
+    {
+      "name": "Pitam Pura",
+      "lat": 28.70317,
+      "lng": 77.13223
+    },
+    {
+      "name": "Pragati Maidan",
+      "lat": 28.62342,
+      "lng": 77.24250
+    },
+    {
+      "name": "Pratap Nagar",
+      "lat": 28.66662,
+      "lng": 77.19882
+    },
+    {
+      "name": "Preet Vihar",
+      "lat": 28.64171,
+      "lng": 77.29543
+    },
+    {
+      "name": "Pul Bangash",
+      "lat": 28.66636,
+      "lng": 77.20727
+    },
+    {
+      "name": "Punjabi Bagh East",
+      "lat": 28.67289,
+      "lng": 77.14614
+    },
+    {
+      "name": "Qutab Minar",
+      "lat": 28.51302,
+      "lng": 77.18648
+    },
+    {
+      "name": "Race Course",
+      "lat": 28.59726,
+      "lng": 77.21088
+    },
+    {
+      "name": "Rajdhani Park",
+      "lat": 28.68221,
+      "lng": 77.04381
+    },
+    {
+      "name": "Rajendra Place",
+      "lat": 28.64250,
+      "lng": 77.17815
+    },
+    {
+      "name": "Rajiv Chowk",
+      "lat": 28.63282,
+      "lng": 77.21826
+    },
+    {
+      "name": "Rajouri Garden",
+      "lat": 28.64902,
+      "lng": 77.12270
+    },
+    {
+      "name": "Ramakrishna Ashram Marg",
+      "lat": 28.63923,
+      "lng": 77.20840
+    },
+    {
+      "name": "Ramesh Nagar",
+      "lat": 28.65274,
+      "lng": 77.13164
+    },
+    {
+      "name": "Rithala",
+      "lat": 28.72072,
+      "lng": 77.10713
+    },
+    {
+      "name": "Rohini East",
+      "lat": 28.70760,
+      "lng": 77.12591
+    },
+    {
+      "name": "Rohini West",
+      "lat": 28.71483,
+      "lng": 77.11467
+    },
+    {
+      "name": "Saket",
+      "lat": 28.52060,
+      "lng": 77.20138
+    },
+    {
+      "name": "Sarita Vihar",
+      "lat": 28.52878,
+      "lng": 77.28826
+    },
+    {
+      "name": "Satguru Ramsingh Marg",
+      "lat": 28.66199,
+      "lng": 77.15748
+    },
+    {
+      "name": "Seelampur",
+      "lat": 28.66989,
+      "lng": 77.26678
+    },
+    {
+      "name": "Shadipur",
+      "lat": 28.65160,
+      "lng": 77.15824
+    },
+    {
+      "name": "Shahdara",
+      "lat": 28.67345,
+      "lng": 77.28962
+    },
+    {
+      "name": "Shastri Nagar",
+      "lat": 28.66999,
+      "lng": 77.18169
+    },
+    {
+      "name": "Shastri Park",
+      "lat": 28.66800,
+      "lng": 77.24994
+    },
+    {
+      "name": "Shivaji Park",
+      "lat": 28.67490,
+      "lng": 77.13056
+    },
+    {
+      "name": "Shivaji Stadium",
+      "lat": 28.62901,
+      "lng": 77.21190
+    },
+    {
+      "name": "Sikandarpur",
+      "lat": 28.48182,
+      "lng": 77.09235
+    },
+    {
+      "name": "Subhash Nagar",
+      "lat": 28.64039,
+      "lng": 77.10495
+    },
+    {
+      "name": "Sultanpur",
+      "lat": 28.49927,
+      "lng": 77.16153
+    },
+    {
+      "name": "Surajmal Stadium",
+      "lat": 28.68180,
+      "lng": 77.07385
+    },
+    {
+      "name": "Tagore Garden",
+      "lat": 28.64379,
+      "lng": 77.11284
+    },
+    {
+      "name": "Tilak Nagar",
+      "lat": 28.63657,
+      "lng": 77.09648
+    },
+    {
+      "name": "Tis Hazari",
+      "lat": 28.66711,
+      "lng": 77.21653
+    },
+    {
+      "name": "Tughlakabad",
+      "lat": 28.50254,
+      "lng": 77.29930
+    },
+    {
+      "name": "Udyog Bhawan",
+      "lat": 28.61166,
+      "lng": 77.21198
+    },
+    {
+      "name": "Udyog Nagar",
+      "lat": 28.68090,
+      "lng": 77.08077
+    },
+    {
+      "name": "Uttam Nagar East",
+      "lat": 28.62481,
+      "lng": 77.06530
+    },
+    {
+      "name": "Uttam Nagar West",
+      "lat": 28.62177,
+      "lng": 77.05585
+    },
+    {
+      "name": "Vaishali",
+      "lat": 28.64997,
+      "lng": 77.33974
+    },
+    {
+      "name": "Vidhan Sabha",
+      "lat": 28.68802,
+      "lng": 77.22140
+    },
+    {
+      "name": "Vishwa Vidyalaya",
+      "lat": 28.69480,
+      "lng": 77.21483
+    },
+    {
+      "name": "Welcome",
+      "lat": 28.67180,
+      "lng": 77.27756
+    },
+    {
+      "name": "Yamuna Bank",
+      "lat": 28.62331,
+      "lng": 77.26792
+    }
+  ]
 ]
